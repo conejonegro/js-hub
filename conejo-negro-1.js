@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const esProgramador = true;
 
     // Mostrar las variables en la consola
-    console.log("Nombre:", nombre);
+    console.log("Nombressss:", nombre);
     console.log("Edad:", edad);
     console.log("¿Es programador?:", esProgramador);
 
